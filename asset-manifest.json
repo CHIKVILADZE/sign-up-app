@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sign-up-app/static/css/main.264785be.css",
+    "main.js": "/sign-up-app/static/js/main.8c558178.js",
+    "static/media/background.png": "/sign-up-app/static/media/background.059183eea52640c5068d.png",
+    "static/media/mobbackground.png": "/sign-up-app/static/media/mobbackground.02ce398270ece1769ebc.png",
+    "index.html": "/sign-up-app/index.html",
+    "static/media/error.svg": "/sign-up-app/static/media/error.b72f792e9c900128f5c88f10a0d8d4b7.svg",
+    "main.264785be.css.map": "/sign-up-app/static/css/main.264785be.css.map",
+    "main.8c558178.js.map": "/sign-up-app/static/js/main.8c558178.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.264785be.css",
+    "static/js/main.8c558178.js"
+  ]
+}
